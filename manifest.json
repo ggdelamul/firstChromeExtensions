@@ -4,7 +4,7 @@
   "manifest_version": 3,
   "description": "This is my first Extensions",
   "action": {
-    "default_icon": "firstExtensionimagesicons8-stylo-à-plume-24.png",
+    "default_icon": "images/icons8-stylo-à-plume-24.png",
     "default_title": "I am my first extension",
     "default_popup": "popup.html"
   }
